@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 密钥（绝不提交）
+.env
+
+# 本地数据库（体积大、可重现）
+data/
